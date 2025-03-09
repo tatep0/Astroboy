@@ -1,1 +1,3 @@
-
+GW170817.dat stores the data for the gravitational wave event with the same name, observed by LIGO/VIRGO.
+J0030, J0437, and J0740.dat are the files for the NICER data of the same named pulsars.
+PDT_U.dat and ST_PDT.dat are the two modes of reanalysis of J0030
